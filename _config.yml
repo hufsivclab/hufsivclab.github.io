@@ -29,14 +29,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+#twitter:
+#  username: vszhub
+#  card: summary
 logo: logo.png
 social:
   name: Yunjoo OH
   links:
-    - https://twitter.com/vszhub
+    - mailto:bkim@hufs.ac.kr
     - https://github.com/Oyunjoo
 google_site_verification: xxxxx
 lang: en
