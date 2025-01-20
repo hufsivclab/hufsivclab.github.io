@@ -1,0 +1,12 @@
+- year: 2025
+  title: "Unveiling High-dimensional Backstage: A Survey for Reliable Visual Analytics with Dimensionality Reduction"
+  authors: "Hyeon Jeon, Hyunwook Lee, Yun-Hsin Kuo, Taehyun Yang, Daniel Archambault, Sungahn Ko, Takanori Fujiwara, Kwan-Liu Ma, Jinwook Seo"
+  source: "In Proceedings of ACM CHI conference on Human Factors in Computing Systems (CHI '25)"
+  pdf: "https://example.com/pdf"
+
+- year: 2024
+  title: "Assessing Graphical Perception of Image Embedding Models using Channel Effectiveness"
+  authors: "Soohyun Lee, Minsuk Chang, Seokhyeon Park, Jinwook Seo"
+  source: "In Proceedings of the 2024 IEEE Visualization and Visual Analytics (VIS)"
+  pdf: "https://example.com/pdf"
+
