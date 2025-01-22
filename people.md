@@ -7,17 +7,20 @@ permalink: /people/
 # Professor
 ---
 
+![](./professor.jpeg) Bohyoung Kim
 
-![](https://photos.app.goo.gl/MHNCozm4KVCnEvMw6) Bohyoung Kim
 
 
 # Interns
 ---
 
-![](https://photos.app.goo.gl/g3ahCUV8a9SCQRhk8) Jeonmin Rhee
-![](https://photos.app.goo.gl/Zx18yAwcDqPxr7XA7) Woojin Song
-![](https://photos.app.goo.gl/zxiU1WsM8PQid2xz6) Seungjoo Lee
+![](./jeongmin.jpeg) Jeonmin Rhee
+![](./woojin.jpeg) Woojin Song
+![](./professor) Seungjoo Lee
+
 Yunjoo Oh
+
+
 
 # Alumni
 ---
