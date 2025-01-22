@@ -12,6 +12,8 @@ We aim for excellence in developing intelligent visual computation techniques th
 We are interested in applications of intelligent visual computation to healthcare such as AI-powered medical image analysis aids and AI-collaborated medical data processing and transformation, improving accuracy and efficiency in medical decision-making.
 
 
+
+
 # Joining IVCL
 ---
 

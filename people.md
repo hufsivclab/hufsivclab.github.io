@@ -7,18 +7,17 @@ permalink: /people/
 # Professor
 ---
 
-![](./professor.jpeg) Bohyoung Kim
+![](./professor.jpeg){: width="200" height="200"} Bohyoung Kim
 
 
 
 # Interns
 ---
 
-![](./jeongmin.jpeg) Jeonmin Rhee
-![](./woojin.jpeg) Woojin Song
-![](./professor) Seungjoo Lee
-
-Yunjoo Oh
+![](./jeongmin.jpeg){: width="200" height="200"} Jeonmin Rhee
+![](./woojin.jpeg){: width="200" height="200"} Woojin Song
+![](./seungjoo.png){: width="200" height="200"} Seungjoo Lee
+![](./yunjoo.jpeg){: width="200" height="200"} Yunjoo Oh
 
 
 
