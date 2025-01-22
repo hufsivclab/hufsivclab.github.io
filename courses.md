@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-permalink: /people/
+title: Course
+permalink: /courses/
 ---
 
 # Undergraduate Courses
