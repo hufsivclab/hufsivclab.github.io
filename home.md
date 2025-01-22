@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: yj
 title: Home
 permalink: /home/
 ---
