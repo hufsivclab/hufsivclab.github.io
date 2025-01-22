@@ -4,7 +4,7 @@ title: Course
 permalink: /courses/
 ---
 
-# Undergraduate Courses
+# **Undergraduate Courses**
 ---
 
  •  T01107A01 컴퓨터개론 및 실습 (Introduction to Computer & Experiments)
