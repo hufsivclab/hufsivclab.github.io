@@ -36,6 +36,7 @@ permalink: /home/
 <!------->
 
 # About Us
+---
 
 ## **Advancing Intelligent Visual Computation**
 <br>
@@ -53,6 +54,7 @@ Our ultimate goal is to **improve accuracy and efficiency** in medical decision-
 <br>
 
 # Joining IVCL
+---
 
 ## **Become Part of Our Team**
 
