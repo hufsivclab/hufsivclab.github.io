@@ -4,17 +4,23 @@ title: Home
 permalink: /home/
 ---
 
-# About us
+# About Us
 ---
 
-We aim for excellence in developing intelligent visual computation techniques that integrate artificial intelligence and computational techniques to enhance the analysis, interpretation, and generation of visual information.
+We strive to excel in developing **intelligent visual computation techniques**, combining artificial intelligence and computational methods to:
 
-We are interested in applications of intelligent visual computation to healthcare such as AI-powered medical image analysis aids and AI-collaborated medical data processing and transformation, improving accuracy and efficiency in medical decision-making.
+- Enhance the **analysis, interpretation, and generation** of visual information.
+- Apply intelligent visual computation to **healthcare**, including:
+  - AI-powered medical image analysis aids.
+  - AI-supported medical data processing and transformation.
 
+Our ultimate goal is to **improve accuracy and efficiency** in medical decision-making.
 
-
+---
 
 # Joining IVCL
 ---
 
-한국외국어대학교 지능형 시각 연산 연구실에 인턴으로 활동하거나 석사/박사로 입학하고 싶으신 분은 여기로 연락주세요.
+Interested in joining the **Intelligent Visual Computing Lab (IVCL)** at Hankuk University of Foreign Studies as an **intern** or pursuing a **Master's/Ph.D.**?
+
+Feel free to **[contact us](mailto:bkim@hufs.ac.kr)** for more information!
