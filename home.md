@@ -35,10 +35,10 @@ permalink: /home/
 <!--permalink: /home/-->
 <!------->
 
-# About Us
+# **About Us**
 ---
 
-## **Advancing Intelligent Visual Computation**
+## Advancing Intelligent Visual Computation
 <br>
 We are dedicated to developing cutting-edge techniques in **intelligent visual computation** that combine artificial intelligence and computational methods to:
 <br>
@@ -53,10 +53,10 @@ Our ultimate goal is to **improve accuracy and efficiency** in medical decision-
 ---
 <br>
 
-# Joining IVCL
+# **Joining IVCL**
 ---
 
-## **Become Part of Our Team**
+## Become Part of Our Team
 
 Are you interested in joining the **Intelligent Visual Computing Lab (IVCL)** at Hankuk University of Foreign Studies? We welcome applications for:
 
