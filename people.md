@@ -24,11 +24,11 @@
 <!--# Alumni-->
 <!------->
 
----
-layout: default
-title: People
-permalink: /people/
----
+<!------->
+<!--layout: default-->
+<!--title: People-->
+<!--permalink: /people/-->
+<!------->
 
 # People
 
@@ -36,7 +36,7 @@ permalink: /people/
 
 ## Professor
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="./professor.jpeg" alt="Professor Image" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="/professor.jpeg" alt="Professor Image" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div>
     <h3 style="margin: 0; font-size: 18px;">Bohyoung Kim, Director</h3>
     <p style="margin: 5px 0; color: #555; font-size: 14px;">Human-Computer Interaction, Information Visualization,<br>Explainable AI, Biomedical Informatics</p>
