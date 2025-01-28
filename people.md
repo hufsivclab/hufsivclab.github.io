@@ -1,4 +1,4 @@
-# People
+# Peop
 
 ---
 
@@ -44,7 +44,7 @@
     <img src="/hufsivc.github.io/yunjoo.jpeg" alt="Yunjoo Oh" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Yunjoo Oh</h4>
-      <p style="margin: 5px 0; color: #555; font-size: 13px;">3D graphics, Web programming</p>
+      <p style="margin: 5px 0; color: #555; font-size: 13px;">3D graphics and Web programming</p>
     </div>
   </div>
 
