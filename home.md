@@ -58,6 +58,9 @@ Our ultimate goal is to **improve accuracy and efficiency** in medical decision-
 
 ## Become Part of Our Team
 
+한국외국어대학교 **지능형 시각 연산 연구실 (IVCL)**에 인턴으로 활동하거나 석사/박사로 입학하
+고 싶으신 분은 여기로 연락주세요.
+<br>
 Are you interested in joining the **Intelligent Visual Computing Lab (IVCL)** at Hankuk University of Foreign Studies? We welcome applications for:
 
 - **Internships**
