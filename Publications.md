@@ -6,9 +6,10 @@ permalink: /publications/
 
 # Publications
 
+---
 
-## <span style="color:#FF6600;">2024</span>
-### International
+## 2024
+### <span style="color:#FF6600;">International</span>
 - **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
   Authors: Hyunwoo Kim, Jihoon Park, Minji Lee, Taeyoung Kim, Jiwon Seo  
   *Computers in Biology and Medicine*  
@@ -36,9 +37,8 @@ permalink: /publications/
 
 ---
 
-
-## <span style="color:#CC5500;">2023</span>
-### International
+## 2023
+### <span style="color:#FF6600;">International</span>
 - **Automatic registration of dental CT and 3D scanned model using deep split jaw and surface curvature** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0169260723001335))  
   Authors: Jimin Kang, Jisoo Lee, Minjae Park  
   *Computer Methods and Programs in Biomedicine*  
@@ -51,8 +51,8 @@ permalink: /publications/
 
 ---
 
-## <span style="color:#993300;">2022</span>
-### International
+## 2022
+### <span style="color:#FF6600;">International</span>
 - **We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision** ([Link](https://doi.org/10.1145/3526113.3545612))  
   Authors: Hyewon Lee, Jiho Park, Soo Kim  
   *UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology*  
@@ -70,8 +70,8 @@ permalink: /publications/
 
 ---
 
-## <span style="color:#662200;">2021</span>
-### International
+## 2021
+### <span style="color:#FF6600;">International</span>
 - **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
   Authors: Minjae Park, Seunghyun Kim, Jiwon Seo  
   *IEEE Transactions on Visualization and Computer Graphics*  
