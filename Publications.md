@@ -6,7 +6,8 @@ permalink: /publications/
 
 # Publications
 
-## 2024
+
+## <span style="color:#FF6600;">2024</span>
 ### International
 - **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
   Authors: Hyunwoo Kim, Jihoon Park, Minji Lee, Taeyoung Kim, Jiwon Seo  
@@ -23,7 +24,7 @@ permalink: /publications/
   *Journal of Maternal-Fetal & Neonatal Medicine*  
   SCI, Vol. 37(1), pp. 1–7
 
-### Domestic
+### <span style="color:#FF6600;">Domestic</span>
 - **LIMEVis: 라임 분석을 위한 상호작용 가능한 시각화 시스템** ([Link](https://www.earticle.net/Article/A429754))  
   Authors: Soojin Park, Jiyeon Lee, Minho Seo  
   한국차세대컴퓨팅학회 논문지, 20(4), pp. 97–105  
@@ -33,7 +34,10 @@ permalink: /publications/
   *Korean Journal of Radiology*  
   SCI, Vol. 25(2), pp. 146–156
 
-## 2023
+---
+
+
+## <span style="color:#CC5500;">2023</span>
 ### International
 - **Automatic registration of dental CT and 3D scanned model using deep split jaw and surface curvature** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0169260723001335))  
   Authors: Jimin Kang, Jisoo Lee, Minjae Park  
@@ -45,7 +49,9 @@ permalink: /publications/
   *Journal of Medical Internet Research*  
   SCIE, Vol. 25, pp. 1–15
 
-## 2022
+---
+
+## <span style="color:#993300;">2022</span>
 ### International
 - **We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision** ([Link](https://doi.org/10.1145/3526113.3545612))  
   Authors: Hyewon Lee, Jiho Park, Soo Kim  
@@ -62,7 +68,9 @@ permalink: /publications/
   *Journal of Human Lactation*  
   SCI, Vol. XX(X), pp. 1–10, ePub
 
-## 2021
+---
+
+## <span style="color:#662200;">2021</span>
 ### International
 - **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
   Authors: Minjae Park, Seunghyun Kim, Jiwon Seo  
@@ -89,7 +97,9 @@ permalink: /publications/
   *Journal of Medical Imaging and Health Informatics*  
   SCI-E, Vol. 11(3), pp. 736–751
 
-## 2020
+---
+
+## <span style="color:#440000;">2020</span>
 ### International
 - **Combining Radiomics and Blood Test Biomarkers to Predict the Response of Locally Advanced Rectal Cancer to Chemoradiation** ([Link](https://doi.org/10.1016/j.inviv.2020.05.017))  
   Authors: Sungho Park, Jiwon Kim, Minjae Lee  
