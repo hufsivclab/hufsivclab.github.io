@@ -8,6 +8,14 @@ paginate: 5
 permalink: pretty
 cover_image: /black.jpeg
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: home
+      permalink: /
+
+
 # Gems
 plugins:
   - jekyll-gist

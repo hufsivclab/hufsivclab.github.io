@@ -99,8 +99,8 @@ permalink: /publications/
 
 ---
 
-## <span style="color:#440000;">2020</span>
-### International
+## 2020
+### <span style="color:#FF6600;">International</span>
 - **Combining Radiomics and Blood Test Biomarkers to Predict the Response of Locally Advanced Rectal Cancer to Chemoradiation** ([Link](https://doi.org/10.1016/j.inviv.2020.05.017))  
   Authors: Sungho Park, Jiwon Kim, Minjae Lee  
   *In Vivo*  
