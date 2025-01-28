@@ -1,35 +1,3 @@
-<!------->
-<!--layout: default-->
-<!--title: People-->
-<!--permalink: /people/-->
-<!------->
-<!---->
-<!--# Professor-->
-<!------->
-<!---->
-<!--![](./professor.jpeg){: width="210" height="270"} Bohyoung Kim-->
-<!---->
-<!--3.5 0.7-->
-<!--4.5 0.9-->
-<!--# Interns-->
-<!------->
-<!---->
-<!--![](./jeongmin.jpeg){: width="210" height="270"} Jeonmin Rhee-->
-<!--![](./woojin.jpeg){: width="210" height="270"} Woojin Song-->
-<!--![](./seungjoo.png){: width="210" height="270"} Seungjoo Lee-->
-<!--![](./yunjoo.jpeg){: width="210" height="270"} Yunjoo Oh-->
-<!---->
-<!---->
-<!---->
-<!--# Alumni-->
-<!------->
-
-<!------->
-<!--layout: default-->
-<!--title: People-->
-<!--permalink: /people/-->
-<!------->
-
 # People
 
 ---
@@ -43,13 +11,12 @@
   </div>
 </div>
 
-
 ---
 
 ## Interns
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
 
-  <div style="flex: 1 1 calc(50% - 20px); display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="/hufsivc.github.io/jeongmin.jpeg" alt="Jeonmin Rhee" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Jeonmin Rhee</h4>
@@ -57,7 +24,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 calc(50% - 20px); display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="/hufsivc.github.io/woojin.jpeg" alt="Woojin Song" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Woojin Song</h4>
@@ -65,7 +32,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 calc(50% - 20px); display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="/hufsivc.github.io/seungjoo.png" alt="Seungjoo Lee" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Seungjoo Lee</h4>
@@ -73,7 +40,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 calc(50% - 20px); display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="/hufsivc.github.io/yunjoo.jpeg" alt="Yunjoo Oh" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Yunjoo Oh</h4>
