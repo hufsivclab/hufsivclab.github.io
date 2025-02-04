@@ -10,14 +10,14 @@ permalink: /publications/
 
 ## 2024
 ### <span style="color:#FF6600;">International</span>
-- **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
-  Authors: Hyunwoo Kim, Jihoon Park, Minji Lee, Taeyoung Kim, Jiwon Seo  
+- **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014410))  
+  Authors: Heeyeon Kim, Minkyung Lee, Bohyoung Kim, Yeong-Gil Shin, Minyoung Chung 
   *Computers in Biology and Medicine*  
   SCI, Vol. 184(XX), pp. 1–10
 
-- **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
-  Authors: Jayoung Kim, Shiyeon Lee, Keonjoo Lee, Bohyoung Kim, Heejoon Bae, Jiwon Seo  
-  *IEEE Transactions on Visualization and Computer Graphics*  
+- **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets** ([Link]([https://doi.org/10.1109/TVCG.2021.3131824](https://arxiv.org/abs/2407.16329)))  
+  Authors: Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo 
+  *IEEE Transactions on Visualization and Computer Graphics (TVCG)*  
   SCI, pp. 1–11
 
 - **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study**  
