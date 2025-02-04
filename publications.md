@@ -65,7 +65,7 @@ maternal age in twin pregnancies** ([Link](https://pubmed.ncbi.nlm.nih.gov/35106
   *Journal of Perinatal Medicine, 50(4), pp. 438-445*  
   ISSN: 1619-3997
   
-- **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))
+- **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
   DongHwa Shin, Jaemin Jo, Bohyoung Kim, Hyunjoo Song, Shin-Hyung Cho, Jinwook Seo  
   *IEEE Transactions on Visualization and Computer Graphics*  
   ISSN: 1077-2626
