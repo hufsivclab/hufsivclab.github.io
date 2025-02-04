@@ -29,8 +29,6 @@ Our ultimate goal is to **improve accuracy and efficiency** in medical decision-
 
 한국외국어대학교 **지능형 시각 연산 연구실 (IVCL)**에 인턴으로 활동하거나 석사/박사로 입학하
 고 싶으신 분은 여기로 연락주세요.
-
-**bkim@hufs.ac.kr**
 <br>
 <br>
 Are you interested in joining the **Intelligent Visual Computing Lab (IVCL)** at Hankuk University of Foreign Studies? We welcome applications for:
@@ -39,6 +37,6 @@ Are you interested in joining the **Intelligent Visual Computing Lab (IVCL)** at
 - **Master's and Ph.D. programs**
 
 ### **Contact Us**
-For more information, feel free to **[reach out to us](mailto:bkim@hufs.ac.kr)**. We look forward to hearing from you!
+For more information, feel free to **[bkim@hufs.ac.kr](mailto:bkim@hufs.ac.kr)**. We look forward to hearing from you!
 
 ---
