@@ -36,6 +36,6 @@ Are you interested in joining the **Intelligent Visual Computing Lab (IVCL)** at
 - **Master's and Ph.D. programs**
 
 ### **Contact Us**
-For more information, feel free to **[bkim@hufs.ac.kr](mailto:bkim@hufs.ac.kr)**. We look forward to hearing from you!
+For more information, feel free to **[bkim@hufs.ac.kr](mailto:bkim@hufs.ac.kr)**.
 
 ---
