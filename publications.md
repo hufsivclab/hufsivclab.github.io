@@ -20,12 +20,12 @@ permalink: /publications/
   *IEEE Transactions on Visualization and Computer Graphics, pp. 1-11*  
   ISSN: 1077-2626
 
-- **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study**([Link] (https://pubmed.ncbi.nlm.nih.gov/38880661/)) 
+- **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study** ([Link] (https://pubmed.ncbi.nlm.nih.gov/38880661/)) 
   Jee Yoon Park, Kyong-No Lee, Hyeon Ji Kim, Kiroong Choe, Aeri Cho, Bohyoung Kim, Jinwook Seo, Hayan Kwon, Jong Woon Kim, Jin-Gon Bae, Ji-Hee Sung, Se Jin Lee, Young Mi Jung, You Jung Han, Subeen Hong, Jin-Hoon Chung, Hye-Sung Won & Jong Kwan Jun  
   *Journal of Maternal-Fetal & Neonatal Medicine, 37(1), pp.1-7*  
   ISSN: 1476-7058
 
-- **Automated Versus Handheld Breast Ultrasound for Evaluating Axillary Lymph Nodes in Patients With Breast Cancer** ([Link](https://doi.org/10.3348/kjr.2021.0850](https://pubmed.ncbi.nlm.nih.gov/38238017/))  
+- **Automated Versus Handheld Breast Ultrasound for Evaluating Axillary Lymph Nodes in Patients With Breast Cancer** ([Link](https://kjronline.org/DOIx.php?id=10.3348/kjr.2023.0100))  
   Sun Mi Kim, Mijung Jang, Bo La Yun, Sung Ui Shin, Jiwon Rim, Eunyoung Kang, Eun-Kyu Kim, Hee-Chul Shin, So Yeon Park, Bohyoung Kim  
   *Korean Journal of Radiology, 25(2), pp.146-156*  
   ISSN: 1229-6929
