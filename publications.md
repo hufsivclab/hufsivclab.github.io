@@ -96,8 +96,7 @@ maternal age in twin pregnancies** ([Link](https://pubmed.ncbi.nlm.nih.gov/35106
   *IEEE Transactions on Visualization and Computer Graphics, 28(7), pp.2563-2576*  
   ISSN: 1077-2626
 
-- **Githru: Visual Analytics for Understanding Software Development
-History Through Git Metadata Analysis** ([Link]([https://doi.org/10.1016/j.inviv.2020.05.017](https://ieeexplore.ieee.org/document/9222261)))  
+- **Githru: Visual Analytics for Understanding Software Development History Through Git Metadata Analysis** ([Link](https://ieeexplore.ieee.org/document/9222261))  
   Youngtaek Kim, Jaeyoung Kim, Hyeon Jeon, Young-Ho Kim, Hyunjoo Song, Bohyoung Kim  
   *IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.656-666*  
   ISSN: 1077-2626
