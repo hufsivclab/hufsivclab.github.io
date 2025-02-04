@@ -12,121 +12,137 @@ permalink: /publications/
 ### <span style="color:#FF6600;">International</span>
 - **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014410))  
   Authors: Heeyeon Kim, Minkyung Lee, Bohyoung Kim, Yeong-Gil Shin, Minyoung Chung 
-  *Computers in Biology and Medicine*  
-  SCI, Vol. 184(XX), pp. 1–10
+  *Computers in Biology and Medicine, 184(XX), pp. 1-10*  
+  ISSN: 0010-4825
 
-- **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets** ([Link]([https://doi.org/10.1109/TVCG.2021.3131824](https://arxiv.org/abs/2407.16329)))  
+- **PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets** ([Link](https://www.computer.org/csdl/journal/tg/2025/01/10689638/20vjB9Qw5Bm))  
   Authors: Jaeyoung Kim, Sihyeon Lee, Hyeon Jeon, Keon-Joo Lee, Hee-Joon Bae, Bohyoung Kim, Jinwook Seo 
-  *IEEE Transactions on Visualization and Computer Graphics (TVCG)*  
-  SCI, pp. 1–11
+  *IEEE Transactions on Visualization and Computer Graphics, pp. 1-11*  
+  ISSN: 1077-2626
 
 - **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study**  
-  Authors: Jiwon Kim, Minji Lee, Hyunwoo Park  
-  *Journal of Maternal-Fetal & Neonatal Medicine*  
-  SCI, Vol. 37(1), pp. 1–7
+  Authors: Jee Yoon Park, Kyong-No Lee, Hyeon Ji Kim, Kiroong Choe, Aeri Cho, Bohyoung Kim, Jinwook Seo, Hayan Kwon, Jong Woon Kim, Jin-Gon Bae, Ji-Hee Sung, Se Jin Lee, Young Mi Jung, You Jung Han, Subeen Hong, Jin-Hoon Chung, Hye-Sung Won & Jong Kwan Jun
+  *Journal of Maternal-Fetal & Neonatal Medicine, 37(1), pp.1-7*  
+  ISSN: 1476-7058
 
-### <span style="color:#FF6600;">Domestic</span>
-- **LIMEVis: 라임 분석을 위한 상호작용 가능한 시각화 시스템** ([Link](https://www.earticle.net/Article/A429754))  
-  Authors: Soojin Park, Jiyeon Lee, Minho Seo  
-  한국차세대컴퓨팅학회 논문지, 20(4), pp. 97–105  
-
-- **Automated Versus Handheld Breast Ultrasound for Evaluating Axillary Lymph Nodes in Patients With Breast Cancer** ([Link](https://doi.org/10.3348/kjr.2021.0850))  
-  Authors: Kyunghee Park, Minjae Lee, Jiwon Seo  
-  *Korean Journal of Radiology*  
-  SCI, Vol. 25(2), pp. 146–156
-
----
-
-## 2023
-### <span style="color:#FF6600;">International</span>
+- **Automated Versus Handheld Breast Ultrasound for Evaluating Axillary Lymph Nodes in Patients With Breast Cancer** ([Link](https://doi.org/10.3348/kjr.2021.0850](https://pubmed.ncbi.nlm.nih.gov/38238017/))  
+  Authors: Sun Mi Kim, Mijung Jang, Bo La Yun, Sung Ui Shin, Jiwon Rim, Eunyoung Kang, Eun-Kyu Kim, Hee-Chul Shin, So Yeon Park, Bohyoung Kim 
+  *Korean Journal of Radiology, 25(2), pp.146-156*  
+  ISSN: 1229-6929
+  
 - **Automatic registration of dental CT and 3D scanned model using deep split jaw and surface curvature** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0169260723001335))  
-  Authors: Jimin Kang, Jisoo Lee, Minjae Park  
-  *Computer Methods and Programs in Biomedicine*  
-  SCI, Vol. 233, pp. 1–10
+  Authors: Minchang Kim, Minyoung Chung, Yeong-Gil Shin, Bohyoung Kim
+  *Computer Methods and Programs in Biomedicine, 233*  
+  ISSN: 0169-2607
+
+- **Pharos: A Transparent and Steerable Visualization Recommendation System** ([Link](http://jcse.kiise.org/files/V17N1-01.pdf))  
+  Authors: Youli Chang, Sehi L’Yi, Young Taek Kim, Hyunjoo Song, Bohyoung Kim, Jinwook Seo
+  *Journal of Computing Science and Engineering, 17(1), pp.1-12*  
+  ISSN: 2093-8020
 
 - **Effects of Fetal Images Produced in Virtual Reality on Maternal-Fetal Attachment: Randomized Controlled Trial** ([Link](https://pubmed.ncbi.nlm.nih.gov/36826976/))  
-  Authors: Seunghyun Kim, Jinyoung Choi, Soyeon Kang  
-  *Journal of Medical Internet Research*  
-  SCIE, Vol. 25, pp. 1–15
+  Authors: Kyong-No Lee, Hyeon Ji Kim, Kiroong Choe, Aeri Cho, Bohyoung Kim, Jinwook Seo, Woojae Myung, Jee Yoon Park, Kyung Joon Oh
+  *Journal of Medical Internet Research, 25, pp 1-15*  
+  ISSN: 1438-8871
 
----
+- **We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision** ([Link](https://dl.acm.org/doi/abs/10.1145/3526113.3545612))  
+  Authors: Hyung-Kwon Ko, Subin An, Gwanmo Park, Seung Kwon Kim, Daesik Kim, Bohyoung Kim, Jaemin Jo, Jinwook Seo
+  *UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology,
+76, pp 1–14*
 
-## 2022
-### <span style="color:#FF6600;">International</span>
-- **We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision** ([Link](https://doi.org/10.1145/3526113.3545612))  
-  Authors: Hyewon Lee, Jiho Park, Soo Kim  
-  *UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology*  
-  SCI, pp. 1–14
+- **The Value of Adding Ductography to Ultrasonography for the Evaluation of Pathologic Nipple Discharge in Women with Negative Mammography** ([Link](https://pubmed.ncbi.nlm.nih.gov/36047541/))  
+  Authors: Younjung Choi, Sun Mi Kim, Mijung Jang, Bo La Yun, Eunyoung Kang, Eun-Kyu Kim, So Yeon Park, Bohyoung Kim, Nariya Cho, Woo Kyung Moon
+  *Korean Journal of Radiology, 23(9), pp.866-877 *  
+  ISSN: 1229-6929
 
-- **The Value of Adding Ductography to Ultrasonography for the Evaluation of Pathologic Nipple Discharge in Women with Negative Mammography** ([Link](https://doi.org/10.3348/kjr.2021.0850))  
-  Authors: Kyunghee Park, Jiho Lee, Seunghyun Kim, Jiwon Seo  
-  *Korean Journal of Radiology*  
-  SCI, Vol. 23(9), pp. 866–877
+- **A Comparison of Ultrasound Imaging Texture Analyses During the Early Postpartum With the Mode of Delivery** ([Link](https://pubmed.ncbi.nlm.nih.gov/35272509/))  
+  Authors: Hyun Kyoung Lee, Eunwook Joo, Seongbeen Kim, Iseop Cho, Kyong-No Lee, Hyeon Ji Kim, Bohyoung Kim, Jee Yoon Park
+  *Journal of Human Lactation, XX(X), pp. 1-10, ePub*  
+  ISSN: 1552-5732
 
-- **A Comparison of Ultrasound Imaging Texture Analyses During the Early Postpartum With the Mode of Delivery** ([Link](https://doi.org/10.1177/08903344221081866))  
-  Authors: Seungmin Lee, Jiyeon Park, Hyunwoo Kim  
-  *Journal of Human Lactation*  
-  SCI, Vol. XX(X), pp. 1–10, ePub
-
----
-
-## 2021
-### <span style="color:#FF6600;">International</span>
-- **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
-  Authors: Minjae Park, Seunghyun Kim, Jiwon Seo  
+- **Association between cesarean section rate and
+maternal age in twin pregnancies** ([Link](https://pubmed.ncbi.nlm.nih.gov/35106987/))  
+  Authors: Seongbeen Kim, Eunjin Song, Ye Hyon Park, Aeri Cho, Kiroong Choe, Hyeon Ji Kim, Jee Yoon Park, Bohyoung Kim, Kyung Joon Oh
+  *Journal of Perinatal Medicine, 50(4), pp. 438-445*  
+  ISSN: 1619-3997
+  
+- **RCMVis: A Visual Analytics System for Route Choice Modeling** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))
+  Authors: DongHwa Shin, Jaemin Jo, Bohyoung Kim, Hyunjoo Song, Shin-Hyung Cho, Jinwook Seo 
   *IEEE Transactions on Visualization and Computer Graphics*  
-  SCI, pp. 1–10
+  ISSN: 1077-2626
 
-- **Using a mobile device for margin assessment of specimen mammography in breast-conserving surgery** ([Link](https://doi.org/10.3390/diagnostics11081409))  
-  Authors: Jihoon Kim, Hyunwoo Lee, Minjae Park  
-  *Medicine*  
-  SCI, Vol. 100(38), pp. 1–7
+- **Using a mobile device for margin assessment of specimen mammography in breast-conserving surgery** ([Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8462545/))  
+  Authors: Bo La Yun, Mijung Jang, Hye Shin Ahn, Mi Young Kim, Bohyoung Kim, Sun Mi Kim
+  *Medicine, 100(38), pp1-7*  
+  ISSN: 0025-7974
 
 - **Diagnostic performance of artificial intelligence-based computer-aided diagnosis for breast microcalcification on mammography** ([Link](https://doi.org/10.3390/diagnostics11081409))  
-  Authors: Minji Kim, Seoyeon Park, Jiwon Seo  
-  *Diagnostics*  
-  SCI, Vol. 11(8), pp. 1–14
+  Authors: Yoon Ah Do, Mijung Jang, Bo La Yun, Sung Ui Shin, Bohyoung Kim and Sun Mi Kim
+  *Diagnostics, 11(8), pp. 1-14*  
+  ISSN: 2075-4418
 
 - **Ultrasound and ultrasound-guided fine needle aspiration biopsy can predict heavy nodal metastatic burden in early-stage breast cancer** ([Link](https://www.e-ultrasonography.org/journal/view.php?doi=10.14366/usg.20143))  
-  Authors: Seunghee Lee, Jiyeon Seo, Minho Kang  
-  *Ultrasonography*  
-  SCI, ePub, pp. 1–10
+  Authors: Hye Shin Ahn, Sun Mi Kim, Mijung Jang, Bo La Yun, Eunyoung Kang, Eun-Kyu Kim, So Yeon Park, Bohyoung Kim  
+  *Ultrasonography, ePub*  
+  ISSN: 2288-5919
 
-- **Unsupervised Deep Learning Network with Self-attention Mechanism for Non-rigid Registration of 3D Brain MR Images** ([Link](https://doi.org/10.1166/jmihi.2020.3345))  
-  Authors: Seungjae Kim, Jihyun Lee, Minseok Park  
-  *Journal of Medical Imaging and Health Informatics*  
-  SCI-E, Vol. 11(3), pp. 736–751
+- **Unsupervised Deep Learning Network with Self-attention Mechanism for Non-rigid Registration of 3D Brain MR Images** ([Link](https://www.ingentaconnect.com/content/asp/jmihi/2021/00000011/00000003/art00011))  
+  Authors: Donggeon Oh, Bohyoung Kim, Jeongjin Lee, Yeong-Gil Shin
+  *Journal of Medical Imaging and Health Informatics, 11(3), pp. 736-751*  
+  ISSN: 2156-7018
+
+- **Augmenting Parallel Coordinates Plots with Color-coded Stacked Histograms** ([Link](https://ieeexplore.ieee.org/document/9262081))  
+  Authors: Jinwook Bok, Bohyoung Kim, Jinwook Seo  
+  *IEEE Transactions on Visualization and Computer Graphics, 28(7), pp.2563-2576*  
+  ISSN: 1077-2626
+
+- **Githru: Visual Analytics for Understanding Software Development
+History Through Git Metadata Analysis** ([Link]([https://doi.org/10.1016/j.inviv.2020.05.017](https://ieeexplore.ieee.org/document/9222261)))  
+  Authors: Youngtaek Kim, Jaeyoung Kim, Hyeon Jeon, Young-Ho Kim, Hyunjoo Song, Bohyoung Kim
+  *IEEE Transactions on Visualization and Computer Graphics, 27(2), pp.656-666*  
+  ISSN: 1077-2626
+
+- **Combining Radiomics and Blood Test Biomarkers to Predict the Response of Locally Advanced Rectal Cancer to Chemoradiation** ([Link](https://pubmed.ncbi.nlm.nih.gov/32871838/))  
+  Authors: Seung Hyuck Jeon, Changhoon Song, Eui Kyu Chie, Bohyoung Kim, Young Hoon Kim, Won Chang, Yoon Jin Lee, Joo-Hyun Chung, Jin Beom Chung, Keun-Wook Lee, Sung-Bum Kang, Jae-Sung Kim
+  *In Vivo, 34(5), pp. 2955-2965*  
+  ISSN: 0258-851X
+
+- **Hyperion: A Visual Analytics Tool for an Intrusion Detection and Prevention System** ([Link](https://ieeexplore.ieee.org/document/9145532))  
+  Authors: Seunghoon Yoo, Jaemin Jo, Bohyoung Kim, Jinwook Seo  
+  *IEEE Access, Vol. 8, pp. 133865-133881*  
+  Print ISSN: 2169-3536
+  Online ISSN: 2169-3536
+
+- **Application of magnetic resonance computer-aided diagnosis for preoperatively determining invasive disease in ultrasonography-guided core needle biopsy-proven ductal carcinoma in situ** ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402737/))  
+  Authors: Hye Shin Ahn, Sun Mi Kim, Mi Sun Kim, Mijung Jang, Bo La Yun, Eunyoung Kang, Eun-Kyu Kim, So Yeon Park, Bohyoung Kim
+  *Medicine, 99(31), pp. 1-9*  
+  ISSN: 0025-7974
+
+- **Depth-of-Field Rendering Using Progressive Lens Sampling in Direct Volume Rendering** ([Link](https://ieeexplore.ieee.org/document/9093011))  
+  Authors: Jiseon Kang, Jeongjin Lee, Yeong-Gil Shin, Bohyoung Kim
+  *IEEE Access, Vol. 8, pp. 93335-93345*  
+  Print ISSN: 2169-3536
+  Online ISSN: 2169-3536
+
+- **Comparison of One- and Two-Region of Interest Strain Elastography Measurements in the Differential Diagnosis of Breast Masses** ([Link](https://pubmed.ncbi.nlm.nih.gov/32193891/))  
+  Authors: Hee Jeong Park, Sun Mi Kim, Bo La Yun, Mijung Jang, Bohyoung Kim, Soo Hyun Lee, Hye Shin Ahn  
+  *Korean Journal of Radiology, 21(4), pp.431-441 *  
+  ISSN: 1229-6929
+
+- **False-negative results on computer-aided detection software in preoperative automated breast ultrasonography of breast cancer patients** ([Link](https://pubmed.ncbi.nlm.nih.gov/32422696/))  
+  Authors: Youngjune Kim, Jiwon Rim, Sun Mi Kim, Bo La Yun, So Yeon Park, Hye Shin Ahn, Bohyoung Kim, Mijung Jang
+  *Ultrasonography, 40(1), pp. 1-10*  
+  ISSN: 2288-5919
 
 ---
 
-## 2020
-### <span style="color:#FF6600;">International</span>
-- **Combining Radiomics and Blood Test Biomarkers to Predict the Response of Locally Advanced Rectal Cancer to Chemoradiation** ([Link](https://doi.org/10.1016/j.inviv.2020.05.017))  
-  Authors: Sungho Park, Jiwon Kim, Minjae Lee  
-  *In Vivo*  
-  SCI, Vol. 34(5), pp. 2955–2965
+### <span style="color:#FF6600;">Domestic</span>
+- **LIMEVis: 라임 분석을 위한 상호작용 가능한 시각화 시스템** ([Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003116589))  
+  Authors: 이정민, 이창희, 신동화, 김보형
+  *한국차세대컴퓨팅학회 논문지, 20(4), pp. 97–105*
+  ISSN: 1975-681X
 
-- **Hyperion: A Visual Analytics Tool for an Intrusion Detection and Prevention System** ([Link](https://doi.org/10.1109/TVCG.2021.3131824))  
-  Authors: Jiwon Seo, Kyungsoo Kim, Hyejin Park  
-  *IEEE Access*  
-  SCI, Vol. 8, pp. 133865–133881
-
-- **Application of magnetic resonance computer-aided diagnosis for preoperatively determining invasive disease in ultrasonography-guided core needle biopsy-proven ductal carcinoma in situ** ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402737/))  
-  Authors: Jiho Lee, Seunghyun Kim, Minjae Park  
-  *Medicine*  
-  SCI, Vol. 99(31), pp. 1–9
-
-- **Depth-of-Field Rendering Using Progressive Lens Sampling in Direct Volume Rendering** ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402737/))  
-  Authors: Minho Kang, Jiwon Seo, Hyunsoo Kim  
-  *IEEE Access*  
-  SCI, Vol. 8, pp. 93335–93345
-
-- **Comparison of One- and Two-Region of Interest Strain Elastography Measurements in the Differential Diagnosis of Breast Masses** ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6315062/))  
-  Authors: Jiyeon Kim, Minji Park, Seunghyun Lee  
-  *Korean Journal of Radiology*  
-  SCI, Vol. 21(4), pp. 431–441
-
-- **False-negative results on computer-aided detection software in preoperative automated breast ultrasonography of breast cancer patients** ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6315062/))  
-  Authors: Minjae Lee, Kyunghee Park, Hyunwoo Kim  
-  *Ultrasonography*  
-  SCI, Vol. 40(1), pp. 1–10
+- **건식 뇌파 데이터를 활용한 경도인지장애 진단 인공지능 모델에 관한 연구** ([Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11605192))  
+  Authors: Jaeyoung Kim, GUHYUN HAN, Dantae An, Sihyeon Lee, Seungeui Lim
+  *한국차세대컴퓨팅학회 논문지, 19(2), pp.44-54*
+  ISSN: 1975-681X
