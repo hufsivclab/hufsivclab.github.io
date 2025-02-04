@@ -21,49 +21,12 @@
   min-height: 100vh;
 }
 
-// .content {
-//   padding-top: var(--spacer-2);
-//   padding-left: var(--spacer-2);
-//   padding-right: var(--spacer-2);
-//   margin-left: auto;
-//   margin-right: auto;
-//   min-height: 100vh;
-//   display: flex; /* Flexbox 적용 */
-//   flex-direction: column;
-//   justify-content: flex-start; /* 위쪽 정렬 */
-// }
-
-
 .sidebar-left {
   display: flex;
   padding: var(--spacer);
   background: center / cover;
   height: 100vh;
-  // display: flex; /* Flex 적용 */
-  // flex-direction: column;
-  // align-items: flex-start; /* 좌측 정렬 */
-  // justify-content: flex-start; /* 위쪽 정렬 */
 }
-
-// .sidebar-left {
-//   display: flex;
-//   flex-direction: column; /* 세로 정렬 유지 */
-//   align-items: flex-start; /* 왼쪽 정렬 */
-//   justify-content: flex-start; /* 위쪽 정렬 */
-//   padding: var(--spacer);
-//   background: center / cover;
-//   height: 100vh;
-// }
-
-// /* 내부 요소의 여백을 최소화 */
-// .sidebar-left h1, 
-// .sidebar-left nav, 
-// .sidebar-left ul, 
-// .sidebar-left .nav-container {
-//   margin-top: 0;
-//   padding-top: 0;
-// }
-
 
 footer {
   margin-top: var(--spacer-3);
