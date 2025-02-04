@@ -20,7 +20,7 @@ permalink: /publications/
   *IEEE Transactions on Visualization and Computer Graphics, pp. 1-11*  
   ISSN: 1077-2626
 
-- **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study** ([Link] (https://pubmed.ncbi.nlm.nih.gov/38880661/)) 
+- **Pregnancy outcomes of cerclage in twin gestations: a multicenter retrospective cohort study** ([Link](https://pubmed.ncbi.nlm.nih.gov/38880661/))
   Jee Yoon Park, Kyong-No Lee, Hyeon Ji Kim, Kiroong Choe, Aeri Cho, Bohyoung Kim, Jinwook Seo, Hayan Kwon, Jong Woon Kim, Jin-Gon Bae, Ji-Hee Sung, Se Jin Lee, Young Mi Jung, You Jung Han, Subeen Hong, Jin-Hoon Chung, Hye-Sung Won & Jong Kwan Jun  
   *Journal of Maternal-Fetal & Neonatal Medicine, 37(1), pp.1-7*  
   ISSN: 1476-7058
