@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2024
 ### <span style="color:#FF6600;">International</span>
 - **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014410))  
-  Authors: Heeyeon Kim, Minkyung Lee, Bohyoung Kim, Yeong-Gil Shin, Minyoung Chung 
+  Heeyeon Kim, Minkyung Lee, Bohyoung Kim, Yeong-Gil Shin, Minyoung Chung
   *Computers in Biology and Medicine, 184(XX), pp. 1-10*  
   ISSN: 0010-4825
 
