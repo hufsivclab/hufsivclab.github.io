@@ -26,7 +26,7 @@ permalink: /people/
     <img src="/jeongmin.jpeg" alt="Jeonmin Rhee" style="width: 150px; height: 200px; margin-right: 20px; object-fit: cover;">
     <div>
       <h4 style="margin: 0; font-size: 16px;">Jeonmin Rhee</h4>
-      <p style="margin: 5px 0; color: #555; font-size: 13px;">Visual Analytics, Biomedical Informatics, and LLM Agents</p>
+      <p style="margin: 5px 0; color: #555; font-size: 13px;">Visual Analytics, Human-AI Interaction, Explainable AI, Biomedical Informatics</p>
     </div>
   </div>
 
