@@ -24,7 +24,7 @@
 
 .masthead-title {
   padding: 0;
-  margin-bottom: var(--spacer); /* 제목과 설명 사이 간격 추가 */
+  // margin-bottom: var(--spacer); /* 제목과 설명 사이 간격 추가 */
   font-size: 2rem;
   font-weight: 900;
 
@@ -43,14 +43,14 @@
 }
 
 .navigation-list {
-  margin-top: var(--spacer-4); /* 네비게이션을 아래로 내림 */
+  margin-top: var(--spacer-2); /* 네비게이션을 아래로 내림 */
   padding: 0;
   list-style: none;
 }
 
 .navigation-item {
   display: block;
-  margin-bottom: var(--spacer-3); /* 메뉴 항목 간 간격 확대 */
+  margin-bottom: var(--spacer); /* 메뉴 항목 간 간격 확대 */
 }
 
 .navigation-item a {
