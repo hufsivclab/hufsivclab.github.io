@@ -8,8 +8,7 @@ permalink: /publications/
 
 ---
 
-## 2024
-### <span style="color:#FF6600;">International</span>
+## <span style="color:#FF6600;">International</span>
 - **Feature-centric registration of large deformed images using transformers and correlation distance** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524014410))  
   Heeyeon Kim, Minkyung Lee, Bohyoung Kim, Yeong-Gil Shin, Minyoung Chung  
   *Computers in Biology and Medicine, 184(XX), pp. 1-10*  
@@ -135,7 +134,7 @@ maternal age in twin pregnancies** ([Link](https://pubmed.ncbi.nlm.nih.gov/35106
 
 ---
 
-### <span style="color:#FF6600;">Domestic</span>
+## <span style="color:#FF6600;">Domestic</span>
 - **LIMEVis: 라임 분석을 위한 상호작용 가능한 시각화 시스템** ([Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003116589))  
   Jeongmin Rhee, Changhee Lee, Shin Dong Hwa, Bohyoung Kim  
   *한국차세대컴퓨팅학회 논문지, 20(4), pp. 97–105*
