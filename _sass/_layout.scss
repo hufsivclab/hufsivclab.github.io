@@ -16,12 +16,13 @@
   padding-top: var(--spacer-2);
   padding-left: var(--spacer-2);
   padding-right: var(--spacer-2);
-  margin-left:  auto;
+  margin-left:  20%;
   margin-right: auto;
   min-height: 100vh;
 }
 
 .sidebar-left {
+  width: 20%;
   display: flex;
   padding: var(--spacer);
   background: center / cover;
