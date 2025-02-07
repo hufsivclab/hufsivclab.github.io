@@ -1,108 +1,18 @@
-// // Sidebar
-// //
-// // Styles for the sidebar.
-
-// .masthead {
-//   text-align: center;
-//   // margin-top: 0;  //var(--spacer-2);
-//   // margin-top: auto;
-//   margin: 0;
-//   width: 100%;
-
-//   a {
-//     color: inherit;
-//     text-decoration: none;
-//   }
-// }
-
-// .avatar-image {
-//   width: 30%;
-//   height: auto;
-//   border-radius: 50%;
-//   display: block;
-//   margin-right: auto;
-//   margin-left: auto;
-// }
-
-// .masthead-title {
-//   padding: 0;
-//   margin: 0;
-//   font-size: 2rem;
-//   font-weight: 900;
-
-//   a:hover,
-//   a:focus {
-//     color: var(--link-hover-color);
-//   }
-// }
-
-// .masthead-tagline {
-//   padding: 0;
-//   margin: 0;
-//   font-size: 1.25rem;
-//   font-weight: 400;
-//   opacity: .7;
-// }
-
-// .navigation-list {
-//   margin-top: var(--spacer-2); /* 네비게이션을 아래로 내림 */
-//   padding: 0;
-//   list-style: none;
-// }
-
-// .navigation-item {
-//   display: block;
-//   margin-bottom: var(--spacer); /* 메뉴 항목 간 간격 확대 */
-// }
-
-// .navigation-item a {
-//   background: transparent;
-//   color: inherit;
-//   letter-spacing: 0.05em;
-//   font-size: 90%;
-//   border-bottom: 2px solid;
-//   border-color: inherit;
-
-//   &:hover,
-//   &:focus {
-//     color: var(--link-hover-color);
-//   }
-// }
-
-// // .social {
-// //   margin-top: var(--spacer-4); /* 아이콘들을 아래로 이동 */
-// //   font-size: 150%;
-// //   white-space: normal;
-// //   line-height: .5;
-// // }
-
-// .social {
-//   margin-top: var(--spacer-2);
-//   font-size: 150%;
-//   white-space: normal;
-//   line-height: .5;
-// }
-
-// .social-icon {
-//   padding: var(--spacer);
-//   &:hover,
-//   &:focus {
-//     color: var(--link-hover-color);
-//     background-color: transparent;
-//   }
-// }
-
-// @media (max-width: $md-width) {
-//   .avatar-image {
-//     width: 15%;
-//   }
-// }
+// Sidebar
+//
+// Styles for the sidebar.
 
 .masthead {
   text-align: center;
-  margin: 0; /* 모든 마진 제거 */
+  // margin-top: 0;  //var(--spacer-2);
+  // margin-top: auto;
+  margin: 0;
   width: 100%;
-  padding-bottom: var(--spacer); /* 약간의 간격 추가 */
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
 .avatar-image {
@@ -110,12 +20,13 @@
   height: auto;
   border-radius: 50%;
   display: block;
-  margin: 0 auto; /* 중앙 정렬 */
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .masthead-title {
   padding: 0;
-  margin: var(--spacer) 0; /* 타이틀과 다른 요소 간 간격 추가 */
+  margin: 0;
   font-size: 2rem;
   font-weight: 900;
 
@@ -127,21 +38,21 @@
 
 .masthead-tagline {
   padding: 0;
-  margin: var(--spacer) 0; /* 태그라인과 간격 조정 */
+  margin: 0;
   font-size: 1.25rem;
   font-weight: 400;
-  opacity: 0.7;
+  opacity: .7;
 }
 
 .navigation-list {
-  margin: 0 auto var(--spacer); /* 상단으로 밀기 */
+  margin-top: var(--spacer-2); /* 네비게이션을 아래로 내림 */
   padding: 0;
   list-style: none;
 }
 
 .navigation-item {
   display: block;
-  margin-bottom: var(--spacer); /* 메뉴 항목 간 간격 */
+  margin-bottom: var(--spacer); /* 메뉴 항목 간 간격 확대 */
 }
 
 .navigation-item a {
@@ -158,12 +69,18 @@
   }
 }
 
+// .social {
+//   margin-top: var(--spacer-4); /* 아이콘들을 아래로 이동 */
+//   font-size: 150%;
+//   white-space: normal;
+//   line-height: .5;
+// }
+
 .social {
-  margin-top: 0; /* 하단 여백 제거 */
-  margin-bottom: var(--spacer); /* 상단 요소와 간격 */
+  margin-top: var(--spacer-2);
   font-size: 150%;
   white-space: normal;
-  line-height: 0.5;
+  line-height: .5;
 }
 
 .social-icon {
@@ -180,4 +97,87 @@
     width: 15%;
   }
 }
+
+// .masthead {
+//   text-align: center;
+//   margin: 0; /* 모든 마진 제거 */
+//   width: 100%;
+//   padding-bottom: var(--spacer); /* 약간의 간격 추가 */
+// }
+
+// .avatar-image {
+//   width: 30%;
+//   height: auto;
+//   border-radius: 50%;
+//   display: block;
+//   margin: 0 auto; /* 중앙 정렬 */
+// }
+
+// .masthead-title {
+//   padding: 0;
+//   margin: var(--spacer) 0; /* 타이틀과 다른 요소 간 간격 추가 */
+//   font-size: 2rem;
+//   font-weight: 900;
+
+//   a:hover,
+//   a:focus {
+//     color: var(--link-hover-color);
+//   }
+// }
+
+// .masthead-tagline {
+//   padding: 0;
+//   margin: var(--spacer) 0; /* 태그라인과 간격 조정 */
+//   font-size: 1.25rem;
+//   font-weight: 400;
+//   opacity: 0.7;
+// }
+
+// .navigation-list {
+//   margin: 0 auto var(--spacer); /* 상단으로 밀기 */
+//   padding: 0;
+//   list-style: none;
+// }
+
+// .navigation-item {
+//   display: block;
+//   margin-bottom: var(--spacer); /* 메뉴 항목 간 간격 */
+// }
+
+// .navigation-item a {
+//   background: transparent;
+//   color: inherit;
+//   letter-spacing: 0.05em;
+//   font-size: 90%;
+//   border-bottom: 2px solid;
+//   border-color: inherit;
+
+//   &:hover,
+//   &:focus {
+//     color: var(--link-hover-color);
+//   }
+// }
+
+// .social {
+//   margin-top: 0; /* 하단 여백 제거 */
+//   margin-bottom: var(--spacer); /* 상단 요소와 간격 */
+//   font-size: 150%;
+//   white-space: normal;
+//   line-height: 0.5;
+// }
+
+// .social-icon {
+//   padding: var(--spacer);
+//   &:hover,
+//   &:focus {
+//     color: var(--link-hover-color);
+//     background-color: transparent;
+//   }
+// }
+
+// @media (max-width: $md-width) {
+//   .avatar-image {
+//     width: 15%;
+//   }
+// }
 
